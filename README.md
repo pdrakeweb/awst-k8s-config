@@ -1,0 +1,1 @@
+# awst-k8s-config
